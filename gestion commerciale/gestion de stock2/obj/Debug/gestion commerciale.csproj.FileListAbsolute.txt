@@ -1,0 +1,45 @@
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\gestion de stock2.exe.config
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\gestion de stock2.exe
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\gestion de stock2.pdb
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\MySql.Data.dll
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\System.Buffers.dll
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\System.Memory.dll
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\ZstdNet.dll
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\Google.Protobuf.pdb
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\Google.Protobuf.xml
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\MySql.Data.xml
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\System.Buffers.xml
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\System.Memory.xml
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion commerciale.csproj.AssemblyReference.cache
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion commerciale.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion_de_stock2.FORMS.acheter_produit.resources
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion_de_stock2.FORMS.add_client.resources
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion_de_stock2.FORMS.add_commande.resources
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion_de_stock2.FORMS.add_fournisseur.resources
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion_de_stock2.FORMS.add_product.resources
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion_de_stock2.FORMS.Client_List.resources
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion_de_stock2.FORMS.Commande_List.resources
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion_de_stock2.FORMS.Fournisseur_List.resources
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion_de_stock2.FORMS.page_principale.resources
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion_de_stock2.FORMS.Produit_List.resources
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion_de_stock2.login.resources
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion_de_stock2.Properties.Resources.resources
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion commerciale.csproj.GenerateResource.cache
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion commerciale.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion commerciale.csproj.CopyComplete
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion de stock2.exe
+C:\Users\DELL LATITUDE\Desktop\Gestion_Commerciale_Projet_.net\gestion commerciale\gestion de stock2\obj\Debug\gestion de stock2.pdb
